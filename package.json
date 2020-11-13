@@ -1,0 +1,25 @@
+{
+  "name": "vue-finances-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmunhozprog03/vue-finances-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmunhozprog03/vue-finances-back/issues"
+  },
+  "homepage": "https://github.com/cmunhozprog03/vue-finances-back#readme",
+  "dependencies": {
+    "graphql-yoga": "1.17.4",
+    "prisma-client": "0.0.0",
+    "prisma-client-lib": "1.28.3"
+  }
+}
